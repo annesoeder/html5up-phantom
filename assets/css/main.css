@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.italic {
+	font-style: italic;
+}
+
+
 ol, ul {
 	list-style: none;
 }
@@ -2706,7 +2711,7 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #f2849e;
+				background-color: #ffffff;
 			}
 
 			.tiles article.style2 > .image:before {
